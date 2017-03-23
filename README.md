@@ -12,7 +12,7 @@ Qt Creater 5.4
 给各种棋子分配分数，计算敌我局面总分差值，利Minimax算法（极小化极大算法）模拟电脑下棋，实现两步人工智能。
 ###算法改进部分：
 利用Alpha-beta剪枝优化算法优化改进，在相同时间内加大Minimax的搜索深度，实现六步人工智能。
-###人人对战部分
+###人人对战部分:
 利用QTcpServer和QTcpSocket实现服务器和客户端通信，实现人人对战。
 ##效果图
 ![](http://wx1.sinaimg.cn/mw690/e3b52512ly1fd66d841dnj21kv0qoaml.jpg)
