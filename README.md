@@ -1,4 +1,4 @@
-# QT跨平台中国象棋（人机对战和人人对战）
+# QT中国象棋
 ## 运行环境
 Qt Creater 5.4
 点击Chess.pro文件，会自动加载到Qt Creater上，可选择构建在Win或Android上，再运行
